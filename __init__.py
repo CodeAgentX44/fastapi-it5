@@ -1,1 +1,0 @@
-"""Student Task Management System application package."""
